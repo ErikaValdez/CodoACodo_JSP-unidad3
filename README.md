@@ -6,8 +6,8 @@
 
 >Título: Nombre y apellido completos
 
-Curso: curso actual que realizan
+>Curso: curso actual que realizan
 
-Comisión: Numero de comisión
+>Comisión: Numero de comisión
 
-Descripción: Breve descripción de lo aprendido hasta el día de hoy
+>Descripción: Breve descripción de lo aprendido hasta el día de hoy
